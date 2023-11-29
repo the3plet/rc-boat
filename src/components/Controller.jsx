@@ -2,7 +2,7 @@ import { Box, Button } from "@mui/material";
 
 const Controller = () => {
   return (
-    <Box sx={{ mt: "100px" }}>
+    <Box sx={{ mt: "50px" }}>
       <Box sx={{ display: "flex", justifyContent: "center" }}>
         <Button variant="contained">Forward</Button>
       </Box>
