@@ -15,7 +15,7 @@ const Controller = () => {
         <Button variant="contained">Backward</Button>
       </Box>
       <Box sx={{ display: "flex", justifyContent: "center", pt:'90px',gap:'20px'}}>
-        <Button variant="outlined" color="success">Conveyor Start</Button>
+        <Button variant="contained" color="success">Conveyor Start</Button>
         <Button variant="contained" color="error">Conveyor Stop</Button>
       </Box>
     </Box>
